@@ -2,14 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header"/>
 
 <div align="center">
-
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A277FF&size=35&center=true&vCenter=true&width=1000&duration=5000&pause=2000&lines=Hello,+I'm+Lucas+Ineth+Ramos)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucasineth&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=151515&title_color=a277ff&text_color=FFF&border_radius=3&border_color=a277ff&icon_color=61ffca&theme=jolly" alt="GitHub stats">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasineth&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=16&show_icons=true&hide_progress=true&title_color=a277ff&hide=html,css&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=a277ff&count_private=true" alt="Most Used Languages">
 </div>
 
 <div align="center">
