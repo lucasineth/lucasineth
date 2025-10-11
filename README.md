@@ -2,10 +2,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=120&section=header"/>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A277FF&size=35&center=true&vCenter=true&width=1000&duration=5000&pause=2000&lines=Hello,+I'm+Lucas+Ineth+Ramos)](https://git.io/typing-svg)
-</div>
-
-<div align="center">
 
 ## 🛠️ Languages and Tools
 
