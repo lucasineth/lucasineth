@@ -23,17 +23,17 @@ Minha jornada na tecnologia começou pelo desenvolvimento de sistemas e, desde e
 >
 > É entender um problema, pensar em uma solução e transformar essa ideia em algo que possa ser utilizado de verdade.
 
-
+---
 <div align="center">
 
 ### 🌐 Connect with me
----
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8C67DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ineth/)
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcsineth@gmail.com)
 
 
 ### 🛠️ Languages and Tools
----
+
 <p>
   <img src="https://skillicons.dev/icons?i=cs,typescript,js,dotnet,react,vite,tailwind,electron,nextjs,html,css,express,sequelize,mongodb,postgres,firebase,supabase,figma,git,github,gamemakerstudio,vscode,androidstudio,docker,postman" />
 </p>
