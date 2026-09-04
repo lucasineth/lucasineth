@@ -47,7 +47,7 @@ Minha jornada na tecnologia começou pelo desenvolvimento de sistemas e, desde e
 
 🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>  
 Universidade da Amazônia (UNAMA) Belém 
-2021 — 2025
+2022 — 2024
 
 </div>
 
