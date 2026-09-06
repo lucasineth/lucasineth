@@ -9,7 +9,7 @@
 
 <h3>🧠 Sobre mim</h3>
 
-Me chamo <strong>Lucas Vinicius Ramos</strong>, sou desenvolvedor Full-Stack Pleno e formado em <strong>Análise e Desenvolvimento de Sistemas na Unama</strong>.
+Me chamo <strong>Lucas Vinicius Ramos</strong>, sou desenvolvedor Full-Stack e formado em <strong>Análise e Desenvolvimento de Sistemas na Unama</strong>.
 
 Gosto de transformar ideias em sistemas que realmente funcionam.
 
